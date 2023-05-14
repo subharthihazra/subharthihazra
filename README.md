@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @subharthihazra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Subharthi Hazra !
+## @subharthihazra
 
-<!---
-subharthihazra/subharthihazra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### A passionate developer from India 😃
+
+## My skills are :
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,c,cpp,mysql,linux,git,github)](https://skillicons.dev)
